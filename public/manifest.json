@@ -1,0 +1,17 @@
+{
+  "name": "شير بليت SharePlate",
+  "short_name": "SharePlate",
+  "description": "منصة مشاركة فائض الطعام لمن هم بحاجة إليه وحفظ النعمة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#1e4620",
+  "icons": [
+    {
+      "src": "/src/assets/images/shareplate_logo_icon_1791913403426.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
